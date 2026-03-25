@@ -1,10 +1,10 @@
-Project Overview
+#Project Overview
 
 This project explores metro ticket pricing strategies for Ulaanbaatar using a data-driven approach based on income affordability and transport policy considerations.
 
 The aim is to design a fair, simple, and practical pricing system that aligns with the economic conditions of Mongolia.
 
-Objectives
+##Objectives
 Analyze average income levels in Mongolia
 Estimate affordable transportation spending
 Compare flat fare and distance-based pricing systems
@@ -15,7 +15,7 @@ Recommended transport spending: approximately 3% of income
 Estimated daily transport budget: ~2,280 MNT
 Suggested single-trip fare: ~1,140 MNT
 
-Alternative scenario:
+##Alternative scenario:
 
 A higher pricing model (~6% of income) results in ~2,250 MNT per trip
 This approach may only be viable with government subsidies
@@ -28,14 +28,14 @@ Distance-based system
 Policy-based evaluation of accessibility and usability
 Why Flat Fare System
 
-The flat fare system is recommended due to:
+##The flat fare system is recommended due to:
 
 Simplicity and ease of use
 Familiarity with existing public transport systems in Mongolia
 Lower infrastructure and implementation costs
 Better accessibility for low-income populations
 
-Distance-based systems may require:
+##Distance-based systems may require:
 
 Advanced tracking technology
 Higher operational costs
